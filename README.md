@@ -14,7 +14,7 @@ This school project was created by Robin Kuck, Jonas Goller, Robin Pratsch and M
 - 5x Buttons
 - 5x 10k ohm resistors(required for buttons)
 - 3x 220 ohm resistors(required for LEDs)
-- Sourcecode()
+- Sourcecode: https://github.com/Kucki99/CAS2.0/blob/master/cas.ino (comments are in german)
 
 # A small insight 
 
