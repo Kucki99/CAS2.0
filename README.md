@@ -5,7 +5,7 @@ A calculator created with Arduino
 
 This school project was created by Robin Kuck, Jonas Goller, Robin Pratsch and Marc Raffelsiefen. We had around nine months time to finish it. The functions of this calculator are arithmetic calculations, calculate the power from basis and exponent, calculate the faculty and a small Math game.
 
-# Required componentes
+# Required components
 
 - 1x Arduino Uno
 - 1x L2C LiquidCrystal LCD Screen
