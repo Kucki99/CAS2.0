@@ -18,4 +18,4 @@ This school project was created by Robin Kuck, Jonas Goller, Robin Pratsch and M
 
 # A small insight 
 
-![](http://robinkuck.de/imgs/github/cas2.0.JPG)
+![](https://github.com/Kucki99/CAS2.0/blob/master/cas2.0.JPG)
